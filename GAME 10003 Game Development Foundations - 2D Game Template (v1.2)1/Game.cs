@@ -18,7 +18,8 @@ namespace Game10003
         /// </summary>
         public void Setup()
         {
-
+            Window.SetTitle("Cool game");
+            Window.SetSize(800, 600);
         }
 
         /// <summary>
